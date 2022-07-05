@@ -1,2 +1,2 @@
-# ToDoRemoveItemReact
+# ToDoStikeThroughReact
 Created with CodeSandbox
