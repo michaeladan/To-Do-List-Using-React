@@ -1,2 +1,2 @@
-# ToDoStikeThroughReact
+# To-do list
 Created with CodeSandbox
